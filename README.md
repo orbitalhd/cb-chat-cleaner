@@ -2,6 +2,7 @@
 # CB Chat Cleaner (Mod-Ready + UI + Log)
 
 A smart, stealthy anti-spam script for Chaturbate rooms — built with precision for mods, fan club leaders, and trusted viewers.
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **CB Chat Cleaner** watches the live chat and automatically filters out spammy or bot-like messages. It fades out repeated junk, mutes offenders, and can even ban them — completely hands-free — based on your selected mode.
 
@@ -32,3 +33,4 @@ A smart, stealthy anti-spam script for Chaturbate rooms — built with precision
 
 > 💬 Built by **ohsochilled** for rooms that deserve a little extra care.
 
+📜 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
